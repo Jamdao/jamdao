@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://www.instagram.com/p/Cq546kZrf2Oz4NSheChks8W-FuIslYnj2TKP-40/edia/background_blur.9066b481.png"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
 </div>
@@ -22,6 +18,14 @@
   <a href="https://www.linkedin.com/in/janderson-soares-563235269/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="199" src="https://imgflip.com/gif/7hsing"  />
 </div>
 
 ###
