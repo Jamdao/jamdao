@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/j/j/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jamdao/jamdao/main/snake.svg" alt="Snake animation" />
 
 ###
